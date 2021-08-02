@@ -1,2 +1,2 @@
-# nxp_gazebo
-NXP models for use with Gazebo.
+# robocon_gazebo
+robocon models for use with Gazebo.

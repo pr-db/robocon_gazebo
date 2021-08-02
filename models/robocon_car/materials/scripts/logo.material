@@ -1,4 +1,4 @@
-material Logo/NXP
+material Logo/Robocon
 {
     technique
     {
@@ -6,7 +6,7 @@ material Logo/NXP
         {
             texture_unit
             {
-                texture nxp.png
+                texture sample.jpg
                 scale 1.0 1.0
             }
         }

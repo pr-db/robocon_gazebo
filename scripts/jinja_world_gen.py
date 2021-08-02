@@ -28,8 +28,8 @@ default_sdf_world_dict = {
     "windy": 1.5,
     "warehouse": 1.5,
     "typhoon": 1.5,
-    "nxp_raceway_overpass": 1.5,
-    "nxp_raceway_octagon": 1.5,
+    "robocon_raceway_overpass": 1.5,
+    "robocon_raceway_octagon": 1.5,
     "raceway": 1.5,
     "canvas": 1.5
 }
