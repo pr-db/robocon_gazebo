@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """
 Generate Worlds
-@author: Benjamin Perseghetti
-@email: bperseghetti@rudislabs.com
+@author: hewhoshallnotbenamed
+@email: hewsnbn@gmail.com
+(Original author Benjamin Perseghetti bperseghetti@rudislabs.com)
 """
 import jinja2
 import argparse
