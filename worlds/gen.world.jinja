@@ -7,6 +7,7 @@ Generated with jinja_world_gen.py
 {%- set sdf_version = '1.5' if sdf_version == 'NotSet' else sdf_version %}
 <sdf version="{{ sdf_version }}">
   <world name="{{ world_name }}">
+  
     <scene>
     {%- if sun_model == 'sunNight' %}
       {%- set ambient_light='0.1' -%}
