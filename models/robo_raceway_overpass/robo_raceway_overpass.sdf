@@ -1,24 +1,24 @@
 <?xml version="1.0" ?>
 <sdf version="1.6">    
-    <model name='robocon_raceway_overpass'>
+    <model name='robo_raceway_overpass'>
     <pose>0 0 0 0 0 0</pose>
-    <link name='robocon_raceway_overpass_link'>
-      <collision name='robocon_raceway_overpass_collision'>
+    <link name='robo_raceway_overpass_link'>
+      <collision name='robo_raceway_overpass_collision'>
         <pose>-16.5 -0.275 -.04 0 0 0</pose>
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>model://robocon_raceway_overpass/meshes/InfiniteOverpassInsideTunnel.stl</uri>
+            <uri>model://robo_raceway_overpass/meshes/InfiniteOverpassInsideTunnel.stl</uri>
           </mesh>
         </geometry>
       </collision>
-      <visual name='robocon_raceway_overpass_inside_visual'>
+      <visual name='robo_raceway_overpass_inside_visual'>
         <cast_shadows>0</cast_shadows>
         <pose>-16.5 -0.275 -.04 0 0 0</pose>
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>model://robocon_raceway_overpass/meshes/InfiniteOverpassInsideTunnel.stl</uri>
+            <uri>model://robo_raceway_overpass/meshes/InfiniteOverpassInsideTunnel.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -28,13 +28,13 @@
           </script>
         </material>
       </visual>
-      <visual name='robocon_raceway_overpass_border_visual'>
+      <visual name='robo_raceway_overpass_border_visual'>
         <cast_shadows>0</cast_shadows>
         <pose>-16.5 -0.275 -.02 0 0 0</pose>
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>model://robocon_raceway_overpass/meshes/InfiniteOverpassBorder.stl</uri>
+            <uri>model://robo_raceway_overpass/meshes/InfiniteOverpassBorder.stl</uri>
           </mesh>
         </geometry>
         <material>

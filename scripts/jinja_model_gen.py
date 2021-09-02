@@ -17,7 +17,7 @@ script_path = os.path.realpath(__file__).replace("jinja_model_gen.py","")
 default_env_path = os.path.relpath(os.path.join(script_path, rel_gazebo_path))
 default_model_path = os.path.relpath(os.path.join(script_path, rel_model_path))
 default_sdf_dict = {
-    "robocon_car": 1.5
+    "robo_car": 1.5
 }
 
 if __name__ == "__main__":

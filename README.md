@@ -1,2 +1,2 @@
-# robocon_gazebo
-robocon models for use with Gazebo.
+# robo_gazebo
+robo models for use with Gazebo.
